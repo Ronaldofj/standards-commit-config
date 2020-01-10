@@ -48,3 +48,19 @@
     }
   }
  ```
+
+## Finalizando
+
+  Agora basta rodar ```git commit``` e você verá a interface do commitizen.
+
+  Quando o commit for escrito, basta finalizar usando ":wq" e pronto.
+
+## Links e Fonte do projeto.
+
+Esse projeto foi feito com base no video da galera da Rocketseat.
+
+[Code/Drops #12 - Padronizando mensagens de commit do Git](https://www.youtube.com/watch?v=erInHkjxkL8)
+
+[Commitlin](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional)
+
+[Commitizen](https://github.com/commitizen/cz-cli)
